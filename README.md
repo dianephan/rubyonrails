@@ -23,4 +23,5 @@ Things you may want to cover:
 
 * ...
 "# rubyonrails" 
-# finally got this to work on my desktop lol 
+
+##following a ruby on rails tutorial 
