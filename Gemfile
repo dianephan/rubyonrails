@@ -19,6 +19,8 @@ gem 'uglifier',     '3.2.0'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '4.2.2'
+#For Windows it works with CofferScript v1.8
+gem 'coffee-script-source', '1.8.0'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
 gem 'jquery-rails', '4.3.1'
 
